@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60fde82-404b-4542-a20d-85178c845585" name="Changes" comment="Logging-logback framework">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+    <list default="true" id="a60fde82-404b-4542-a20d-85178c845585" name="Changes" comment="Configuration file for logging">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721374214940</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Configuration file for logging">
+      <option name="closed" value="true" />
+      <created>1721375741427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721375741427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +132,7 @@
     <MESSAGE value="Client setup" />
     <MESSAGE value="Create a client" />
     <MESSAGE value="Logging-logback framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logging-logback framework" />
+    <MESSAGE value="Configuration file for logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuration file for logging" />
   </component>
 </project>

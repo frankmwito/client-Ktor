@@ -6,7 +6,9 @@ import io.ktor.client.request.*
 import io.ktor.client.statement.*
 
 suspend fun main() {
-    val client = HttpClient(CIO)
+    val client = HttpClient(CIO){
+        expectSuccess = true
+    }
     val response: HttpResponse = client.get("http://Ktor.io")
     println(response.status)
     client.close()
